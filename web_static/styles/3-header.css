@@ -2,6 +2,10 @@ header {
     background-color: white;
     height: 70px;
     border-bottom: 1px solid #CCCCCC;
+    top: 0;
+    padding: 5px;
+    margin-bottom: 30px;
+    position: relative;
 }
 
 .logo{
